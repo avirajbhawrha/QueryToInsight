@@ -10,6 +10,7 @@ From writing SQL joins to building DAX measures to cleaning data in Pandas — t
 
 ## 📁 Repository Structure
 
+
 ```
 QueryToInsight/
 ├── SQL/
