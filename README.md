@@ -15,7 +15,7 @@ Current files in this repo:
 ```
 QueryToInsight/
 ├── SQL Interview Preparation Level -1.md
-├── EXCEL interview preparation level 2.md
+├── EXCEL interview preparation level 1.md
 └── README.md
 ```
 
@@ -26,14 +26,14 @@ More levels and topics are actively being added — see the roadmap below.
 | File                                      | Category | What's Inside                                                                                  |
 | ------------------------------------------ | -------- | ------------------------------------------------------------------------------------------------ |
 | `SQL Interview Preparation Level -1.md`    | SQL      | Core SQL interview questions — joins, subqueries, aggregations, and more                        |
-| `EXCEL interview preparation level 2.md`   | Excel    | Formulas, pivot tables, lookup functions, data cleaning, charts, and scenario-based questions   |
+| `EXCEL interview preparation level 1.md`   | Excel    | Formulas, pivot tables, lookup functions, data cleaning, charts, and scenario-based questions   |
 
 ## 🗺️ Roadmap
 
 - [x] SQL — Level 1
-- [x] Excel — Level 2
-- [ ] **SQL — Level 2** *(coming soon: window functions, CTEs, query optimization, advanced joins)*
-- [ ] **Excel — Level 3** *(coming soon: Power Query, macros/VBA, advanced dashboards)*
+- [x] Excel — Level 1
+- [ ] **SQL — Level 1** *(coming soon: window functions, CTEs, query optimization, advanced joins)*
+- [ ] **Excel — Level 2** *(coming soon: Power Query, macros/VBA, advanced dashboards)*
 - [ ] Power BI
 - [ ] Python
 - [ ] Case Studies
@@ -47,9 +47,7 @@ More levels and topics are actively being added — see the roadmap below.
 3. Use the questions as a checklist to identify gaps in your knowledge.
 4. Come back and track your progress with the roadmap above.
 
-## 🤝 Contributing
 
-Found a better question or want to add a new topic or level? PRs are welcome — fork the repo, add your file, and submit a pull request.
 
 ## ⭐ Support
 
