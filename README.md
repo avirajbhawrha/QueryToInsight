@@ -4,70 +4,52 @@
 
 ## 🎯 About
 
-**QueryToInsight** is a curated collection of interview practice questions for **Data Analyst** roles, organized by tool and topic. Each question is paired with a clear solution and explanation, so you can practice the way you'd actually be tested in an interview.
+**QueryToInsight** is a curated collection of interview practice questions for **Data Analyst** roles, organized by tool and topic. Each file is a prep sheet you can work through the way you'd actually be tested in an interview.
 
-From writing SQL joins to building DAX measures to cleaning data in Pandas — this repo covers the full analyst stack in one place.
+From SQL joins to Excel formulas to Power BI dashboards to Python for data analysis — this repo covers the full analyst stack in one place, growing level by level.
 
 ## 📁 Repository Structure
 
+Current files in this repo:
 
 ```
 QueryToInsight/
-├── SQL/
-│   ├── basics.md
-│   ├── joins.md
-│   ├── window-functions.md
-│   └── case-studies.md
-│
-├── Excel/
-│   ├── formulas.md
-│   ├── pivot-tables.md
-│   └── data-cleaning.md
-│
-├── PowerBI/
-│   ├── dax-questions.md
-│   ├── data-modeling.md
-│   └── dashboard-design.md
-│
-├── Python/
-│   ├── pandas-numpy.md
-│   ├── data-visualization.md
-│   └── statistics.md
-│
-├── Case-Studies/
-│   └── real-world-business-problems.md
-│
+├── SQL Interview Preparation Level -1.md
+├── EXCEL interview preparation level 2.md
 └── README.md
 ```
 
-## 🧠 Topics Covered
+More levels and topics are actively being added — see the roadmap below.
 
-| Category | Topics |
-|---|---|
-| **SQL** | Joins, subqueries, window functions, aggregations, query optimization |
-| **Excel** | Formulas, pivot tables, VLOOKUP/XLOOKUP, data cleaning, charts |
-| **Power BI** | DAX, data modeling, relationships, dashboard design |
-| **Python** | Pandas, NumPy, data wrangling, visualization, statistics |
-| **Case Studies** | Real business scenarios, metrics design, A/B testing logic |
+## 🧠 Topics Covered So Far
 
-## 🚀 How to Use This Repo
+| File                                      | Category | What's Inside                                                                                  |
+| ------------------------------------------ | -------- | ------------------------------------------------------------------------------------------------ |
+| `SQL Interview Preparation Level -1.md`    | SQL      | Core SQL interview questions — joins, subqueries, aggregations, and more                        |
+| `EXCEL interview preparation level 2.md`   | Excel    | Formulas, pivot tables, lookup functions, data cleaning, charts, and scenario-based questions   |
 
-1. Pick a topic folder based on what you're prepping for.
-2. Attempt the question before checking the solution.
-3. Compare your approach with the provided explanation.
-4. Track your progress with the checklist below.
+## 🗺️ Roadmap
 
-## ✅ Progress Tracker
-
-- [ ] SQL
-- [ ] Excel
+- [x] SQL — Level 1
+- [x] Excel — Level 2
+- [ ] **SQL — Level 2** *(coming soon: window functions, CTEs, query optimization, advanced joins)*
+- [ ] **Excel — Level 3** *(coming soon: Power Query, macros/VBA, advanced dashboards)*
 - [ ] Power BI
 - [ ] Python
 - [ ] Case Studies
 
+> 📌 More levels of SQL and Excel are planned for the future, along with entirely new sections for Power BI, Python, and real-world case studies — so keep an eye on this repo as it grows.
+
+## 🚀 How to Use This Repo
+
+1. Open the `.md` file for the topic and level you're prepping for.
+2. Try to answer each question yourself before looking anything up.
+3. Use the questions as a checklist to identify gaps in your knowledge.
+4. Come back and track your progress with the roadmap above.
+
 ## 🤝 Contributing
 
-Found a better solution or want to add a new question? PRs are welcome — fork the repo, add your question/solution to the right folder, and submit a pull request.
+Found a better question or want to add a new topic or level? PRs are welcome — fork the repo, add your file, and submit a pull request.
 
 ## ⭐ Support
 
